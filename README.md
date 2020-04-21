@@ -1,2 +1,2 @@
 # Parcial Bases de datos II
-#![Image of Yaktocat](https://https://github.com/alejandromaselli/parcial/ER.jpeg)
+#![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/ER.jpeg)
