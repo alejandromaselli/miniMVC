@@ -37,6 +37,19 @@ Esta es la pantalla para consultar las bases de datos.
 
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/tabla1.PNG)
  
-### - Tenemos una tabla de Roles donde la llave foranea apunta al id de usuario y a una tercera tabla que contiene los roles.   
+### - Tenemos una tabla de Roles donde la llave foranea apunta al id de usuario
 
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/tabla2.PNG)
+
+### - Esiste una tercera tabla que contiene los roles que se pueden asignar al usuario 
+
+![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/tabla3.PNG)
+
+### - Luego como se tiene una relación de muchos a muchos en tipo_permiso que es el CRUD con la tabla de roles que en el script de ejemplo contiene CEO, Gerente, Supervisor o Agente 
+
+![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/tabla4.PNG)
+
+### - Existe una tabla que contiene los modulos y mediante el rol y los permisos se despliega en la pagina lo que el usuario puede editar, ver o actualizar
+
+![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/tabla5.PNG)
+
