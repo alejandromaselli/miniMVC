@@ -3,11 +3,13 @@
 $server = 'localhost';
 $username = 'root';
 $password = '';
-$database = 'sistema' ;
+$database = 'sistema';
 
-try {
-	$conn = new PDO("mysql:host = $server; dbname = $database;", $username, $password);
-} catch (PDOException $e) {
-	die('Connection Failed: ' . $e->getMessage());
+$conn = new mysqli($server,$username,$password,$database);
+
+// Check connection
+if ($conn -> connect_errno) {
+  echo "Failed to connect to MySQL: " . $mysqli -> connect_error;
+  exit();
 }
 ?>

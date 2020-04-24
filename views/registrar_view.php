@@ -5,6 +5,12 @@
 	<title>Document</title>
 </head>
 <body>
-	
+	<form action="">
+		<input type="text" placeholder="valor">
+		<input type="text" placeholder="valor">
+		<input type="text" placeholder="valor">
+		<input type="text" placeholder="valor">
+		<input type="text" placeholder="valor">
+	</form>		
 </body>
 </html>
