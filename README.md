@@ -27,6 +27,10 @@ Esta es la pantalla para consultar las bases de datos.
 
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/4.PNG)
 
-###Base de datos
+### Base de datos
 
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/diagrama.PNG)
+
+- El archivo queries2.sql contiene la creación de la base de datos, tablas e inserts.
+ - Partimos del fromulario para crear un usuario y de una almacenamos datos en la tabla persona y usuario.
+ -  
