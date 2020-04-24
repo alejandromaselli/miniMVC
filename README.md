@@ -16,13 +16,17 @@ Este es el formulario de acceso
 - ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/2.PNG)
 
 Siendo administrador se puede ver esto:
+
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/3.PNG)
 
 Este es el formulario para poder crear un usuario
+
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master//imagenes/1.PNG)
 
 Esta es la pantalla para consultar las bases de datos.
+
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/4.PNG)
 
 ###Base de datos
+
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/diagrama.PNG)
