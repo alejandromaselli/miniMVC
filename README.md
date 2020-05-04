@@ -52,4 +52,12 @@ Esta es la pantalla para consultar las bases de datos.
 ### - Existe una tabla que contiene los modulos y mediante el rol y los permisos se despliega en la pagina lo que el usuario puede editar, ver o actualizar
 
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/tabla6.PNG)
+
+#### Imagen del fercho TragaPitos
+
 ![image](https://github.com/FernandoG17/Calculator-C-/blob/master/calculadtor.png)
+
+#### Imagen del fercho TragaPitos
+
+![image](https://github.com/FernandoG17/Calculator-C-/blob/master/calculator.jpg)
+ 	
