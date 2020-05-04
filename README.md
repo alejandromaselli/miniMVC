@@ -17,7 +17,7 @@ Este es el formulario de acceso
 
 Siendo administrador se puede ver esto:
 
-![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/3.PNG)
+![image](https://github.com/alejandromaselli/parcial/blob/master/imagenes/3.PNG)
 
 Este es el formulario para poder crear un usuario
 
@@ -52,4 +52,4 @@ Esta es la pantalla para consultar las bases de datos.
 ### - Existe una tabla que contiene los modulos y mediante el rol y los permisos se despliega en la pagina lo que el usuario puede editar, ver o actualizar
 
 ![Image of Yaktocat](https://github.com/alejandromaselli/parcial/blob/master/imagenes/tabla6.PNG)
-
+![image](https://github.com/FernandoG17/Calculator-C-/blob/master/calculadtor.png)
