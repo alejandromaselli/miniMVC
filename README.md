@@ -1,4 +1,4 @@
-# Parcial Bases de datos II
+# Mini MVC - Diseño de base datos 
 ## Documetación
 ### Código
 Este es el arbol del proyecto
